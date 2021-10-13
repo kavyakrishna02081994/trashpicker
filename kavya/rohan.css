@@ -1,0 +1,105 @@
+#q1 {
+  font-family: helvetica;
+  font-size: 50px;
+  color: blue;
+  text-align: center;
+  font-style: italic;
+  font-weight: 900;
+}
+
+.green {
+  font-family: helvetica;
+  font-size: 50px;
+  color: green;
+  text-align: center;
+  font-style: italic;
+  font-weight: 900;
+}
+
+.yellow {
+  font-family: helvetica;
+  font-size: 50px;
+  color: yellow;
+  text-align: center;
+  font-style: italic;
+  font-weight: 900;
+}
+
+.backgroundgreen{
+  background-color: green;
+}
+
+.backgroundblue{
+  background-color: blue;
+}
+
+.backgroundyellow{
+  background-color: yellow;
+}
+
+ul {
+  list-style-type:square;
+}
+
+ol {
+  list-style-type:lower-alpha;
+}
+
+.list_red{
+  color: red;
+}
+
+.list_green{
+  color: green;
+}
+
+a {
+  color: red;
+}
+
+img{
+  width: 200px;
+  height: 180px;
+  display: block;
+  margin-left: 90%;
+  margin-right: auto;
+}
+
+iframe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav{
+  background-color: blue;
+}
+
+nav a {
+  display: inline-block;
+  padding: 20px 20px;
+  color: white;
+}
+
+nav a:hover {
+  background-color: pink;
+}
+
+footer{
+  background-color: blue;
+}
+
+footer a {
+  display: inline-block;
+  padding: 20px 20px;
+  color: white;
+}
+
+footer a:hover {
+  background-color: pink;
+}
+/* This is adding background color to my website*/
+body {
+  background-color: pink;
+  background-repeat: repeat-y;
+}
